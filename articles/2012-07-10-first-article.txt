@@ -1,0 +1,5 @@
+title: This is my first blog post
+author: jordan buller
+date: 2012/07/10
+
+This is my first blog post on toto. I am having problems getting in working correctly with heroic.
